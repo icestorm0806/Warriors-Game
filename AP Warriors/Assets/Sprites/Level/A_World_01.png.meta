@@ -1,0 +1,3319 @@
+fileFormatVersion: 2
+guid: 582a003cda129a0458f07b67dd8b83da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1741248274606630546
+    second: A_World_01_0
+  - first:
+      213: 903978082677785040
+    second: A_World_01_1
+  - first:
+      213: 5936272881580820969
+    second: A_World_01_2
+  - first:
+      213: 6574460437571194206
+    second: A_World_01_3
+  - first:
+      213: 1546009557982624464
+    second: A_World_01_4
+  - first:
+      213: -428231992802617059
+    second: A_World_01_5
+  - first:
+      213: -4567042652290577881
+    second: A_World_01_6
+  - first:
+      213: -9140655066845218072
+    second: A_World_01_7
+  - first:
+      213: -2868704898248247726
+    second: A_World_01_8
+  - first:
+      213: -3612522594728043860
+    second: A_World_01_9
+  - first:
+      213: 6996179665129222976
+    second: A_World_01_10
+  - first:
+      213: 4138811970571159341
+    second: A_World_01_11
+  - first:
+      213: -5243718200838856961
+    second: A_World_01_12
+  - first:
+      213: 6048437381227340445
+    second: A_World_01_13
+  - first:
+      213: 9173396719599774254
+    second: A_World_01_14
+  - first:
+      213: 1371002978681105712
+    second: A_World_01_15
+  - first:
+      213: 4349993738846579807
+    second: A_World_01_16
+  - first:
+      213: -7814944816081958477
+    second: A_World_01_17
+  - first:
+      213: -989493812156485650
+    second: A_World_01_18
+  - first:
+      213: -6127544323160738864
+    second: A_World_01_19
+  - first:
+      213: 911793103177857359
+    second: A_World_01_20
+  - first:
+      213: -7564001040847595644
+    second: A_World_01_21
+  - first:
+      213: 1460608339716294282
+    second: A_World_01_22
+  - first:
+      213: 1116808396542164737
+    second: A_World_01_23
+  - first:
+      213: 8407973687502127267
+    second: A_World_01_24
+  - first:
+      213: 5737126724636594826
+    second: A_World_01_25
+  - first:
+      213: 3986104787110579171
+    second: A_World_01_26
+  - first:
+      213: -4333067745979706721
+    second: A_World_01_27
+  - first:
+      213: 1466929284182671757
+    second: A_World_01_28
+  - first:
+      213: 1296756400809388237
+    second: A_World_01_29
+  - first:
+      213: 193609273614674672
+    second: A_World_01_30
+  - first:
+      213: 5764612153893305813
+    second: A_World_01_31
+  - first:
+      213: 6775185000749391204
+    second: A_World_01_32
+  - first:
+      213: 5323973810658890475
+    second: A_World_01_33
+  - first:
+      213: 2652455800644764567
+    second: A_World_01_34
+  - first:
+      213: -3586576896496291842
+    second: A_World_01_35
+  - first:
+      213: 4216308070552207921
+    second: A_World_01_36
+  - first:
+      213: -5612518750474856846
+    second: A_World_01_37
+  - first:
+      213: -7413270960160790958
+    second: A_World_01_38
+  - first:
+      213: -1339208342609821206
+    second: A_World_01_39
+  - first:
+      213: 7414329492221589921
+    second: A_World_01_40
+  - first:
+      213: 3276367259147289455
+    second: A_World_01_41
+  - first:
+      213: 8796516572579567594
+    second: A_World_01_42
+  - first:
+      213: 4328104519082547379
+    second: A_World_01_43
+  - first:
+      213: 683183290304149292
+    second: A_World_01_44
+  - first:
+      213: -6606028856969966855
+    second: A_World_01_45
+  - first:
+      213: -5910585029164190461
+    second: A_World_01_46
+  - first:
+      213: 95751501380182036
+    second: A_World_01_47
+  - first:
+      213: -1522472741835045902
+    second: A_World_01_48
+  - first:
+      213: -6033665601031140193
+    second: A_World_01_49
+  - first:
+      213: 3158710730396263199
+    second: A_World_01_50
+  - first:
+      213: -133412962923894410
+    second: A_World_01_51
+  - first:
+      213: 133446533020044416
+    second: A_World_01_52
+  - first:
+      213: -5435636694791356241
+    second: A_World_01_53
+  - first:
+      213: -399988344700392491
+    second: A_World_01_54
+  - first:
+      213: -4801394081087631439
+    second: A_World_01_55
+  - first:
+      213: -4033072416565103145
+    second: A_World_01_56
+  - first:
+      213: -2409210742701801137
+    second: A_World_01_57
+  - first:
+      213: -2444371631603701506
+    second: A_World_01_58
+  - first:
+      213: -8444141957386927383
+    second: A_World_01_59
+  - first:
+      213: -2551553568610581919
+    second: A_World_01_60
+  - first:
+      213: 2114911227109744694
+    second: A_World_01_61
+  - first:
+      213: 7960016073489627366
+    second: A_World_01_62
+  - first:
+      213: -789498545215766439
+    second: A_World_01_63
+  - first:
+      213: 2274725187329110476
+    second: A_World_01_64
+  - first:
+      213: 5221882436889113601
+    second: A_World_01_65
+  - first:
+      213: 4044335823404224769
+    second: A_World_01_66
+  - first:
+      213: 3141829336886323056
+    second: A_World_01_67
+  - first:
+      213: -1437432519868556903
+    second: A_World_01_68
+  - first:
+      213: 9026513317083448586
+    second: A_World_01_69
+  - first:
+      213: 6274268914553627006
+    second: A_World_01_70
+  - first:
+      213: -8046286283962195844
+    second: A_World_01_71
+  - first:
+      213: 7374775045302888782
+    second: A_World_01_72
+  - first:
+      213: 5744030684030408231
+    second: A_World_01_73
+  - first:
+      213: 409011412930917942
+    second: A_World_01_74
+  - first:
+      213: 4164502285006771188
+    second: A_World_01_75
+  - first:
+      213: -7062641671042214441
+    second: A_World_01_76
+  - first:
+      213: 177493912771214305
+    second: A_World_01_77
+  - first:
+      213: 2681904604805392405
+    second: A_World_01_78
+  - first:
+      213: -4167404781697263058
+    second: A_World_01_79
+  - first:
+      213: -5874073266673293826
+    second: A_World_01_80
+  - first:
+      213: 7667350271949377367
+    second: A_World_01_81
+  - first:
+      213: 8552520869466083152
+    second: A_World_01_82
+  - first:
+      213: 8365122308401809298
+    second: A_World_01_83
+  - first:
+      213: -5556721440946361952
+    second: A_World_01_84
+  - first:
+      213: -5560153188658797821
+    second: A_World_01_85
+  - first:
+      213: -5569421908283058969
+    second: A_World_01_86
+  - first:
+      213: -2546877007293175229
+    second: A_World_01_87
+  - first:
+      213: -5390817493739688803
+    second: A_World_01_88
+  - first:
+      213: -9067247876542612063
+    second: A_World_01_89
+  - first:
+      213: 9035499350746148359
+    second: A_World_01_90
+  - first:
+      213: 1099022086785775911
+    second: A_World_01_91
+  - first:
+      213: -4582515362162998461
+    second: A_World_01_92
+  - first:
+      213: 4739450934755107799
+    second: A_World_01_93
+  - first:
+      213: 3011268023953603981
+    second: A_World_01_94
+  - first:
+      213: 6369736509419327574
+    second: A_World_01_95
+  - first:
+      213: 253677643608854570
+    second: A_World_01_96
+  - first:
+      213: 2266580529288643276
+    second: A_World_01_97
+  - first:
+      213: 5496114821573938595
+    second: A_World_01_98
+  - first:
+      213: -4484107066585313466
+    second: A_World_01_99
+  - first:
+      213: -1312907834658533459
+    second: A_World_01_100
+  - first:
+      213: 7787471926906048677
+    second: A_World_01_101
+  - first:
+      213: 8256682046126632722
+    second: A_World_01_102
+  - first:
+      213: 2391642151153234981
+    second: A_World_01_103
+  - first:
+      213: 8292516795579425574
+    second: A_World_01_104
+  - first:
+      213: 5957402940084152752
+    second: A_World_01_105
+  - first:
+      213: -5112060083889987773
+    second: A_World_01_106
+  - first:
+      213: -4882645192191694829
+    second: A_World_01_107
+  - first:
+      213: -807765883868980677
+    second: A_World_01_108
+  - first:
+      213: -8539668153014268530
+    second: A_World_01_109
+  - first:
+      213: -8385154001642479513
+    second: A_World_01_110
+  - first:
+      213: -4092416822156529324
+    second: A_World_01_111
+  - first:
+      213: 6296721887980526024
+    second: A_World_01_112
+  - first:
+      213: -9052056866421970029
+    second: A_World_01_113
+  - first:
+      213: 8320169367846165297
+    second: A_World_01_114
+  - first:
+      213: -5513259324258005710
+    second: A_World_01_115
+  - first:
+      213: -1461329696201252716
+    second: A_World_01_116
+  - first:
+      213: -4358720642802468166
+    second: A_World_01_117
+  - first:
+      213: 6298773228322454502
+    second: A_World_01_118
+  - first:
+      213: -3539413994396152100
+    second: A_World_01_119
+  - first:
+      213: 5361302109809549617
+    second: A_World_01_120
+  - first:
+      213: -5409780663987485025
+    second: A_World_01_121
+  - first:
+      213: -5480870207398397366
+    second: A_World_01_122
+  - first:
+      213: 4858822586516188258
+    second: A_World_01_123
+  - first:
+      213: 4989061498660896992
+    second: A_World_01_124
+  - first:
+      213: -3317643414688213444
+    second: A_World_01_125
+  - first:
+      213: 1612147788360122725
+    second: A_World_01_126
+  - first:
+      213: 6216496840695467878
+    second: A_World_01_127
+  - first:
+      213: -3936095300676953834
+    second: A_World_01_128
+  - first:
+      213: 862716623794075068
+    second: A_World_01_129
+  - first:
+      213: 253173735691607251
+    second: A_World_01_130
+  - first:
+      213: -4400625833137897778
+    second: A_World_01_131
+  - first:
+      213: 8911952631601579372
+    second: A_World_01_132
+  - first:
+      213: 2199169810261652347
+    second: A_World_01_133
+  - first:
+      213: -6668202023175623499
+    second: A_World_01_134
+  - first:
+      213: -330672843114066395
+    second: A_World_01_135
+  - first:
+      213: -5994476719669367822
+    second: A_World_01_136
+  - first:
+      213: -4022079234033176159
+    second: A_World_01_137
+  - first:
+      213: -7417464486472970474
+    second: A_World_01_138
+  - first:
+      213: 1412681427957079420
+    second: A_World_01_139
+  - first:
+      213: 1072869070877577259
+    second: A_World_01_140
+  - first:
+      213: 6202493852333169808
+    second: A_World_01_141
+  - first:
+      213: -4569880641196596785
+    second: A_World_01_142
+  - first:
+      213: -70601393022908831
+    second: A_World_01_143
+  - first:
+      213: 716836372225184865
+    second: A_World_01_144
+  - first:
+      213: 3535914878346713210
+    second: A_World_01_145
+  - first:
+      213: -3416319899260738384
+    second: A_World_01_146
+  - first:
+      213: 1250572466855851824
+    second: A_World_01_147
+  - first:
+      213: -1797122376199657933
+    second: A_World_01_148
+  - first:
+      213: 8993219845364335534
+    second: A_World_01_149
+  - first:
+      213: -1085653270082855242
+    second: A_World_01_150
+  - first:
+      213: 8917136247669207500
+    second: A_World_01_151
+  - first:
+      213: -7678928988566406875
+    second: A_World_01_152
+  - first:
+      213: 1657305891644405874
+    second: A_World_01_153
+  - first:
+      213: -4074660177703338693
+    second: A_World_01_154
+  - first:
+      213: 4523359965535769471
+    second: A_World_01_155
+  - first:
+      213: 7540477828213065142
+    second: A_World_01_156
+  - first:
+      213: -365852219418551265
+    second: A_World_01_157
+  - first:
+      213: -6459752196926628427
+    second: A_World_01_158
+  - first:
+      213: 4518577228295945136
+    second: A_World_01_159
+  - first:
+      213: 3469343423262171982
+    second: A_World_01_160
+  - first:
+      213: 4533534975570950063
+    second: A_World_01_161
+  - first:
+      213: -5271510477893999200
+    second: A_World_01_162
+  - first:
+      213: 4574325503223648477
+    second: A_World_01_163
+  - first:
+      213: -7051299279617524710
+    second: A_World_01_164
+  - first:
+      213: 683442621495535168
+    second: A_World_01_165
+  - first:
+      213: -2394672155616238907
+    second: A_World_01_166
+  - first:
+      213: -8920256468227599404
+    second: A_World_01_167
+  - first:
+      213: -8617090330029390706
+    second: A_World_01_168
+  - first:
+      213: -5736172269333311226
+    second: A_World_01_169
+  - first:
+      213: -3512029519447429849
+    second: A_World_01_170
+  - first:
+      213: 3757901448782698086
+    second: A_World_01_171
+  - first:
+      213: -8055662073841211033
+    second: A_World_01_172
+  - first:
+      213: -567517750216180497
+    second: A_World_01_173
+  - first:
+      213: 4455080972601174687
+    second: A_World_01_174
+  - first:
+      213: 1969078403202592152
+    second: A_World_01_175
+  - first:
+      213: -4182559622450738379
+    second: A_World_01_176
+  - first:
+      213: 7821791895013470693
+    second: A_World_01_177
+  - first:
+      213: 2820024917294704127
+    second: A_World_01_178
+  - first:
+      213: -5231842640835774988
+    second: A_World_01_179
+  - first:
+      213: 5683139632576454096
+    second: A_World_01_180
+  - first:
+      213: -4049928748535204930
+    second: A_World_01_181
+  - first:
+      213: -6005493861931437924
+    second: A_World_01_182
+  - first:
+      213: -4006033744565841992
+    second: A_World_01_183
+  - first:
+      213: 1191663228281366670
+    second: A_World_01_184
+  - first:
+      213: -543534656582498414
+    second: A_World_01_185
+  - first:
+      213: 2130278695639217343
+    second: A_World_01_186
+  - first:
+      213: 939113925612007680
+    second: A_World_01_187
+  - first:
+      213: -8614594758128976718
+    second: A_World_01_188
+  - first:
+      213: -2983274622001470588
+    second: A_World_01_189
+  - first:
+      213: -8112715574132786528
+    second: A_World_01_190
+  - first:
+      213: 776609938198928495
+    second: A_World_01_191
+  - first:
+      213: -6039208552753197473
+    second: A_World_01_192
+  - first:
+      213: -589307016170820622
+    second: A_World_01_193
+  - first:
+      213: -1128327646474100746
+    second: A_World_01_194
+  - first:
+      213: 2555246893292858607
+    second: A_World_01_195
+  - first:
+      213: 1380286610617242284
+    second: A_World_01_196
+  - first:
+      213: -8019520085916728182
+    second: A_World_01_197
+  - first:
+      213: 7351951896586395954
+    second: A_World_01_198
+  - first:
+      213: 4498213520258335549
+    second: A_World_01_199
+  - first:
+      213: 7947645189405160959
+    second: A_World_01_200
+  - first:
+      213: -8944782876664874026
+    second: A_World_01_201
+  - first:
+      213: 6084828882573802950
+    second: A_World_01_202
+  - first:
+      213: 7228020553051901760
+    second: A_World_01_203
+  - first:
+      213: -3671077943141412927
+    second: A_World_01_204
+  - first:
+      213: 7313900262755367151
+    second: A_World_01_205
+  - first:
+      213: 5424074996181462552
+    second: A_World_01_206
+  - first:
+      213: 1199095747379573071
+    second: A_World_01_207
+  - first:
+      213: 960359712638455481
+    second: A_World_01_208
+  - first:
+      213: 7351114246675079409
+    second: A_World_01_209
+  - first:
+      213: 6238431479416247934
+    second: A_World_01_210
+  - first:
+      213: 2977394176884255745
+    second: A_World_01_211
+  - first:
+      213: 886470682929656512
+    second: A_World_01_212
+  - first:
+      213: 8032275798085437552
+    second: A_World_01_213
+  - first:
+      213: -4285932944668741341
+    second: A_World_01_214
+  - first:
+      213: -5229273700850075754
+    second: A_World_01_215
+  - first:
+      213: 6769877939390463060
+    second: A_World_01_216
+  - first:
+      213: 8412441802688255703
+    second: A_World_01_217
+  - first:
+      213: -6249975169776218941
+    second: A_World_01_218
+  - first:
+      213: 6249147409820926523
+    second: A_World_01_219
+  - first:
+      213: 6464069637709639973
+    second: A_World_01_220
+  - first:
+      213: -1761279908807578036
+    second: A_World_01_221
+  - first:
+      213: 2496936080173408984
+    second: A_World_01_222
+  - first:
+      213: 4154546157772378192
+    second: A_World_01_223
+  - first:
+      213: -8159572389944371610
+    second: A_World_01_224
+  - first:
+      213: -8509428672254952333
+    second: A_World_01_225
+  - first:
+      213: -7332320684122059163
+    second: A_World_01_226
+  - first:
+      213: 5446219407772820650
+    second: A_World_01_227
+  - first:
+      213: 5034027743710959040
+    second: A_World_01_228
+  - first:
+      213: -4797901530073852794
+    second: A_World_01_229
+  - first:
+      213: 2796415966947684561
+    second: A_World_01_230
+  - first:
+      213: 6271212470550655573
+    second: A_World_01_231
+  - first:
+      213: 887782237889876355
+    second: A_World_01_232
+  - first:
+      213: 3084210902128201431
+    second: A_World_01_233
+  - first:
+      213: -8012232387328562757
+    second: A_World_01_234
+  - first:
+      213: 5818269799291686472
+    second: A_World_01_235
+  - first:
+      213: -9219038269681278487
+    second: A_World_01_236
+  - first:
+      213: 2560498562973358044
+    second: A_World_01_237
+  - first:
+      213: 4759705990240481828
+    second: A_World_01_238
+  - first:
+      213: -5711951392789409931
+    second: A_World_01_239
+  - first:
+      213: -3982888376807350432
+    second: A_World_01_240
+  - first:
+      213: -5261923151874718188
+    second: A_World_01_241
+  - first:
+      213: -8977766718381842112
+    second: A_World_01_242
+  - first:
+      213: -6223335659165853725
+    second: A_World_01_243
+  - first:
+      213: 2235264781196459177
+    second: A_World_01_244
+  - first:
+      213: 1843978077141160228
+    second: A_World_01_245
+  - first:
+      213: 4246982120696894246
+    second: A_World_01_246
+  - first:
+      213: 282482970699455273
+    second: A_World_01_247
+  - first:
+      213: 5109367332205394265
+    second: A_World_01_248
+  - first:
+      213: -530523096435134854
+    second: A_World_01_249
+  - first:
+      213: -8966524922256760466
+    second: A_World_01_250
+  - first:
+      213: -8011676110975494610
+    second: A_World_01_251
+  - first:
+      213: -2794831299955836917
+    second: A_World_01_252
+  - first:
+      213: -7355532233429365104
+    second: A_World_01_253
+  - first:
+      213: 3645398476617981260
+    second: A_World_01_254
+  - first:
+      213: 5819060890884070616
+    second: A_World_01_255
+  - first:
+      213: 7197437270280172771
+    second: A_World_01_256
+  - first:
+      213: 1807582954321715486
+    second: A_World_01_257
+  - first:
+      213: -919170773411150024
+    second: A_World_01_258
+  - first:
+      213: -6631729607498007437
+    second: A_World_01_259
+  - first:
+      213: -1450175883158638521
+    second: A_World_01_260
+  - first:
+      213: 1274970324189601222
+    second: A_World_01_261
+  - first:
+      213: -3579322624078952422
+    second: A_World_01_262
+  - first:
+      213: 9149709802907034235
+    second: A_World_01_263
+  - first:
+      213: -3384328360230980797
+    second: A_World_01_264
+  - first:
+      213: 2244678447056117959
+    second: A_World_01_265
+  - first:
+      213: 6964723579749174676
+    second: A_World_01_266
+  - first:
+      213: 1933935757792300479
+    second: A_World_01_267
+  - first:
+      213: -3268907541303224139
+    second: A_World_01_268
+  - first:
+      213: 6566992549479648701
+    second: A_World_01_269
+  - first:
+      213: -658951986288544709
+    second: A_World_01_270
+  - first:
+      213: -9075442111581954697
+    second: A_World_01_271
+  - first:
+      213: -5875083324112325206
+    second: A_World_01_272
+  - first:
+      213: -1844985566611099296
+    second: A_World_01_273
+  - first:
+      213: 2724309553298902152
+    second: A_World_01_274
+  - first:
+      213: 6665617140990682029
+    second: A_World_01_275
+  - first:
+      213: -1711034763628498343
+    second: A_World_01_276
+  - first:
+      213: -6460735498130748533
+    second: A_World_01_277
+  - first:
+      213: 4820814203393529577
+    second: A_World_01_278
+  - first:
+      213: 522965191864881548
+    second: A_World_01_279
+  - first:
+      213: 7894724925027002845
+    second: A_World_01_280
+  - first:
+      213: -5592124948552074572
+    second: A_World_01_281
+  - first:
+      213: -3466789911965315171
+    second: A_World_01_282
+  - first:
+      213: 1391838640995020033
+    second: A_World_01_283
+  - first:
+      213: -5937269890789927463
+    second: A_World_01_284
+  - first:
+      213: 7087379958210885468
+    second: A_World_01_285
+  - first:
+      213: 7538380327240420395
+    second: A_World_01_286
+  - first:
+      213: -1788317478776567624
+    second: A_World_01_287
+  - first:
+      213: -5707752975493529699
+    second: A_World_01_288
+  - first:
+      213: 4703076098544224000
+    second: A_World_01_289
+  - first:
+      213: 4434882945322074376
+    second: A_World_01_290
+  - first:
+      213: -6115537924544696815
+    second: A_World_01_291
+  - first:
+      213: -7039159029883045852
+    second: A_World_01_292
+  - first:
+      213: 5194298441610311069
+    second: A_World_01_293
+  - first:
+      213: -7611834576280710851
+    second: A_World_01_294
+  - first:
+      213: -6234917164636485894
+    second: A_World_01_295
+  - first:
+      213: -6024890779839717937
+    second: A_World_01_296
+  - first:
+      213: 8285269669996077886
+    second: A_World_01_297
+  - first:
+      213: -2495191823821659263
+    second: A_World_01_298
+  - first:
+      213: -7015516646341825372
+    second: A_World_01_299
+  - first:
+      213: -2989623402539273988
+    second: A_World_01_300
+  - first:
+      213: -782442406230993504
+    second: A_World_01_301
+  - first:
+      213: -330558918296287134
+    second: A_World_01_302
+  - first:
+      213: 6867437868767929614
+    second: A_World_01_303
+  - first:
+      213: -4936996341263936735
+    second: A_World_01_304
+  - first:
+      213: 6349987068388739245
+    second: A_World_01_305
+  - first:
+      213: -2943416952617833945
+    second: A_World_01_306
+  - first:
+      213: -8277392217732453783
+    second: A_World_01_307
+  - first:
+      213: 7149014192555905241
+    second: A_World_01_308
+  - first:
+      213: 1325568834540993376
+    second: A_World_01_309
+  - first:
+      213: -2614209151584093583
+    second: A_World_01_310
+  - first:
+      213: 4421645522410329666
+    second: A_World_01_311
+  - first:
+      213: -8473894148621561161
+    second: A_World_01_312
+  - first:
+      213: 9087225076068694195
+    second: A_World_01_313
+  - first:
+      213: -5174040299817127716
+    second: A_World_01_314
+  - first:
+      213: -4729314813544703786
+    second: A_World_01_315
+  - first:
+      213: -5208393751786214305
+    second: A_World_01_316
+  - first:
+      213: -2541396985197196318
+    second: A_World_01_317
+  - first:
+      213: 5110158358320213630
+    second: A_World_01_318
+  - first:
+      213: -1617360856502944605
+    second: A_World_01_319
+  - first:
+      213: 1377976048769442949
+    second: A_World_01_320
+  - first:
+      213: 8545638294109452309
+    second: A_World_01_321
+  - first:
+      213: 2447205170438484086
+    second: A_World_01_322
+  - first:
+      213: -8435760953772787178
+    second: A_World_01_323
+  - first:
+      213: -485596913841169497
+    second: A_World_01_324
+  - first:
+      213: -8067926115688363883
+    second: A_World_01_325
+  - first:
+      213: 2707072035226782828
+    second: A_World_01_326
+  - first:
+      213: -2922039363028060490
+    second: A_World_01_327
+  - first:
+      213: -8787358662616297833
+    second: A_World_01_328
+  - first:
+      213: 7245768264245625740
+    second: A_World_01_329
+  - first:
+      213: 4062905849125122658
+    second: A_World_01_330
+  - first:
+      213: -7502613112361455394
+    second: A_World_01_331
+  - first:
+      213: 3081947402986684403
+    second: A_World_01_332
+  - first:
+      213: -2485701729279451592
+    second: A_World_01_333
+  - first:
+      213: -9180094696728672897
+    second: A_World_01_334
+  - first:
+      213: 6980607388541517794
+    second: A_World_01_335
+  - first:
+      213: 5537642676217773378
+    second: A_World_01_336
+  - first:
+      213: 361316742099104324
+    second: A_World_01_337
+  - first:
+      213: -8171360200876824766
+    second: A_World_01_338
+  - first:
+      213: -6120722434767222663
+    second: A_World_01_339
+  - first:
+      213: -4037278869846830400
+    second: A_World_01_340
+  - first:
+      213: 2356792128847008280
+    second: A_World_01_341
+  - first:
+      213: 6434787904374652059
+    second: A_World_01_342
+  - first:
+      213: 6137354228427506054
+    second: A_World_01_343
+  - first:
+      213: -4432333522819092560
+    second: A_World_01_344
+  - first:
+      213: 1267847008092573178
+    second: A_World_01_345
+  - first:
+      213: -9124397839820703906
+    second: A_World_01_346
+  - first:
+      213: 4657434942128224114
+    second: A_World_01_347
+  - first:
+      213: 4671297765804363300
+    second: A_World_01_348
+  - first:
+      213: 4827448591395058547
+    second: A_World_01_349
+  - first:
+      213: 7703029739007871614
+    second: A_World_01_350
+  - first:
+      213: -6247227353808042120
+    second: A_World_01_351
+  - first:
+      213: -2137523887134991567
+    second: A_World_01_352
+  - first:
+      213: -7688856587852051123
+    second: A_World_01_353
+  - first:
+      213: -4403656412621669216
+    second: A_World_01_354
+  - first:
+      213: 4846281270595699049
+    second: A_World_01_355
+  - first:
+      213: 1689851764568437984
+    second: A_World_01_356
+  - first:
+      213: 1849500648480296062
+    second: A_World_01_357
+  - first:
+      213: -8787439262926126210
+    second: A_World_01_358
+  - first:
+      213: -5112454150564289210
+    second: A_World_01_359
+  - first:
+      213: 3831400150610158001
+    second: A_World_01_360
+  - first:
+      213: -2342289906822143610
+    second: A_World_01_361
+  - first:
+      213: 3622341575830849312
+    second: A_World_01_362
+  - first:
+      213: 4030811478432222781
+    second: A_World_01_363
+  - first:
+      213: 179892320370891561
+    second: A_World_01_364
+  - first:
+      213: -4422929346310563860
+    second: A_World_01_365
+  - first:
+      213: -2923045339442208652
+    second: A_World_01_366
+  - first:
+      213: -187193679483636330
+    second: A_World_01_367
+  - first:
+      213: -6992416526716459235
+    second: A_World_01_368
+  - first:
+      213: 8927979192586409294
+    second: A_World_01_369
+  - first:
+      213: -1804170235149668161
+    second: A_World_01_370
+  - first:
+      213: -7198525983861104191
+    second: A_World_01_371
+  - first:
+      213: -5504023614056956040
+    second: A_World_01_372
+  - first:
+      213: -8222967974937160623
+    second: A_World_01_373
+  - first:
+      213: -170571580889684918
+    second: A_World_01_374
+  - first:
+      213: 2283501882847182678
+    second: A_World_01_375
+  - first:
+      213: 8989176485647791043
+    second: A_World_01_376
+  - first:
+      213: -3542329806760310542
+    second: A_World_01_377
+  - first:
+      213: 3871215505348776905
+    second: A_World_01_378
+  - first:
+      213: 7379801077003807015
+    second: A_World_01_379
+  - first:
+      213: 1968654040363300279
+    second: A_World_01_380
+  - first:
+      213: 7814288736599444641
+    second: A_World_01_381
+  - first:
+      213: 1818609917472370916
+    second: A_World_01_382
+  - first:
+      213: 6272430142016393480
+    second: A_World_01_383
+  - first:
+      213: 7203602715637595606
+    second: A_World_01_384
+  - first:
+      213: 549253239422098294
+    second: A_World_01_385
+  - first:
+      213: 9200377907823558040
+    second: A_World_01_386
+  - first:
+      213: 9068091541164953381
+    second: A_World_01_387
+  - first:
+      213: -6201416345675367129
+    second: A_World_01_388
+  - first:
+      213: -7786043158781458906
+    second: A_World_01_389
+  - first:
+      213: -2130967029155151558
+    second: A_World_01_390
+  - first:
+      213: 2005780953966089834
+    second: A_World_01_391
+  - first:
+      213: -1678387718730911946
+    second: A_World_01_392
+  - first:
+      213: 7175224523086298591
+    second: A_World_01_393
+  - first:
+      213: 1635687375296332446
+    second: A_World_01_394
+  - first:
+      213: -4068480721898212738
+    second: A_World_01_395
+  - first:
+      213: -4154182842119315857
+    second: A_World_01_396
+  - first:
+      213: 829485268819090880
+    second: A_World_01_397
+  - first:
+      213: 5359858349469082862
+    second: A_World_01_398
+  - first:
+      213: 6153825113198718142
+    second: A_World_01_399
+  - first:
+      213: -7864874544807142449
+    second: A_World_01_400
+  - first:
+      213: 7735615796533151450
+    second: A_World_01_401
+  - first:
+      213: 3063675279789916496
+    second: A_World_01_402
+  - first:
+      213: -6935973355533994396
+    second: A_World_01_403
+  - first:
+      213: -7474757522408207786
+    second: A_World_01_404
+  - first:
+      213: 2511767136203055962
+    second: A_World_01_405
+  - first:
+      213: -2004724877053089143
+    second: A_World_01_406
+  - first:
+      213: 8371457509257065903
+    second: A_World_01_407
+  - first:
+      213: 8723397143696623569
+    second: A_World_01_408
+  - first:
+      213: -2990270967630746275
+    second: A_World_01_409
+  - first:
+      213: 190764691718400937
+    second: A_World_01_410
+  - first:
+      213: -6243777925744580364
+    second: A_World_01_411
+  - first:
+      213: -8947302475867107032
+    second: A_World_01_412
+  - first:
+      213: 6009291244186219139
+    second: A_World_01_413
+  - first:
+      213: 2729133091621381168
+    second: A_World_01_414
+  - first:
+      213: -8843324806851332368
+    second: A_World_01_415
+  - first:
+      213: -7977983035044923227
+    second: A_World_01_416
+  - first:
+      213: 4575899658395990211
+    second: A_World_01_417
+  - first:
+      213: -3706150971896007789
+    second: A_World_01_418
+  - first:
+      213: 4310369940607626743
+    second: A_World_01_419
+  - first:
+      213: -6337669353802954443
+    second: A_World_01_420
+  - first:
+      213: -3560106562226848204
+    second: A_World_01_421
+  - first:
+      213: -3092805645356069035
+    second: A_World_01_422
+  - first:
+      213: 6346653361553689534
+    second: A_World_01_423
+  - first:
+      213: -4611497196730258340
+    second: A_World_01_424
+  - first:
+      213: 2306743708005719356
+    second: A_World_01_425
+  - first:
+      213: 2143161725949075448
+    second: A_World_01_426
+  - first:
+      213: 8445297408389315698
+    second: A_World_01_427
+  - first:
+      213: -561573400445531746
+    second: A_World_01_428
+  - first:
+      213: -4501435092368017554
+    second: A_World_01_429
+  - first:
+      213: -1018534610017094249
+    second: A_World_01_430
+  - first:
+      213: -4049041163987875407
+    second: A_World_01_431
+  - first:
+      213: -1944209307774269277
+    second: A_World_01_432
+  - first:
+      213: 8985027547814690025
+    second: A_World_01_433
+  - first:
+      213: 4969384024519154149
+    second: A_World_01_434
+  - first:
+      213: 8941674906345849707
+    second: A_World_01_435
+  - first:
+      213: 5179569711107842878
+    second: A_World_01_436
+  - first:
+      213: -8955361462433243711
+    second: A_World_01_437
+  - first:
+      213: -192443159355673603
+    second: A_World_01_438
+  - first:
+      213: -6874072909291588807
+    second: A_World_01_439
+  - first:
+      213: 9074632990208044443
+    second: A_World_01_440
+  - first:
+      213: 3545709350366322213
+    second: A_World_01_441
+  - first:
+      213: -3675710269795063881
+    second: A_World_01_442
+  - first:
+      213: 6562619813943307769
+    second: A_World_01_443
+  - first:
+      213: -1989866072745516638
+    second: A_World_01_444
+  - first:
+      213: 989385196491129541
+    second: A_World_01_445
+  - first:
+      213: -561661368489504027
+    second: A_World_01_446
+  - first:
+      213: -6233127036062447272
+    second: A_World_01_447
+  - first:
+      213: -2902022862888500076
+    second: A_World_01_448
+  - first:
+      213: 1906481089608982990
+    second: A_World_01_449
+  - first:
+      213: 323567771331655150
+    second: A_World_01_450
+  - first:
+      213: 8878387444281904369
+    second: A_World_01_451
+  - first:
+      213: 3040395766389203236
+    second: A_World_01_452
+  - first:
+      213: -964389345044751250
+    second: A_World_01_453
+  - first:
+      213: -3501500538422134232
+    second: A_World_01_454
+  - first:
+      213: -7213633885806763585
+    second: A_World_01_455
+  - first:
+      213: -1417290705833697697
+    second: A_World_01_456
+  - first:
+      213: 3565916897433174430
+    second: A_World_01_457
+  - first:
+      213: 8856912154719192685
+    second: A_World_01_458
+  - first:
+      213: -5391801670776788672
+    second: A_World_01_459
+  - first:
+      213: -2062078121231631213
+    second: A_World_01_460
+  - first:
+      213: 8389399349059798686
+    second: A_World_01_461
+  - first:
+      213: 1170207530498371933
+    second: A_World_01_462
+  - first:
+      213: -8681318797423438856
+    second: A_World_01_463
+  - first:
+      213: 7655875509288810361
+    second: A_World_01_464
+  - first:
+      213: -9105613418083396593
+    second: A_World_01_465
+  - first:
+      213: -4953142486500528854
+    second: A_World_01_466
+  - first:
+      213: -6049937554297962508
+    second: A_World_01_467
+  - first:
+      213: 1560009385370182991
+    second: A_World_01_468
+  - first:
+      213: 1782349709015621118
+    second: A_World_01_469
+  - first:
+      213: -2584366154769509392
+    second: A_World_01_470
+  - first:
+      213: 5404167435215593122
+    second: A_World_01_471
+  - first:
+      213: 8758661568980338097
+    second: A_World_01_472
+  - first:
+      213: 6884551509041312334
+    second: A_World_01_473
+  - first:
+      213: -1781402861626435100
+    second: A_World_01_474
+  - first:
+      213: -7814185847194760724
+    second: A_World_01_475
+  - first:
+      213: 4143128801645311003
+    second: A_World_01_476
+  - first:
+      213: 8148951140607002799
+    second: A_World_01_477
+  - first:
+      213: -3586430543190877800
+    second: A_World_01_478
+  - first:
+      213: 5923319621226918960
+    second: A_World_01_479
+  - first:
+      213: -1924863553070722315
+    second: A_World_01_480
+  - first:
+      213: 2839131547610394170
+    second: A_World_01_481
+  - first:
+      213: 7538267924631636751
+    second: A_World_01_482
+  - first:
+      213: -6021243072658410599
+    second: A_World_01_483
+  - first:
+      213: 1673916127331320309
+    second: A_World_01_484
+  - first:
+      213: -4118571106311482974
+    second: A_World_01_485
+  - first:
+      213: 997667648815362930
+    second: A_World_01_486
+  - first:
+      213: -1253934774446478983
+    second: A_World_01_487
+  - first:
+      213: -247684965232356635
+    second: A_World_01_488
+  - first:
+      213: -5036241295370487184
+    second: A_World_01_489
+  - first:
+      213: -7692213885333744367
+    second: A_World_01_490
+  - first:
+      213: 3509545341526434454
+    second: A_World_01_491
+  - first:
+      213: 7537721776042675501
+    second: A_World_01_492
+  - first:
+      213: -3280972291846378154
+    second: A_World_01_493
+  - first:
+      213: 2776242521041027868
+    second: A_World_01_494
+  - first:
+      213: 1626797002948651558
+    second: A_World_01_495
+  - first:
+      213: 5439102306561989753
+    second: A_World_01_496
+  - first:
+      213: 2817733244523317782
+    second: A_World_01_497
+  - first:
+      213: 2887975874255555815
+    second: A_World_01_498
+  - first:
+      213: -2432868086282921612
+    second: A_World_01_499
+  - first:
+      213: -9113271025469025196
+    second: A_World_01_500
+  - first:
+      213: 4640149035589891169
+    second: A_World_01_501
+  - first:
+      213: -7622353673439139436
+    second: A_World_01_502
+  - first:
+      213: 5545819100862184045
+    second: A_World_01_503
+  - first:
+      213: 9084674393027241459
+    second: A_World_01_504
+  - first:
+      213: 3822443497325385686
+    second: A_World_01_505
+  - first:
+      213: -5547551980986097538
+    second: A_World_01_506
+  - first:
+      213: 6824152794873211645
+    second: A_World_01_507
+  - first:
+      213: 5841699543725897009
+    second: A_World_01_508
+  - first:
+      213: -8594657215750087008
+    second: A_World_01_509
+  - first:
+      213: -5429559722957720743
+    second: A_World_01_510
+  - first:
+      213: 9076092934799063419
+    second: A_World_01_511
+  - first:
+      213: 6864359056044320308
+    second: A_World_01_512
+  - first:
+      213: -5923586470391707103
+    second: A_World_01_513
+  - first:
+      213: -19671016709648197
+    second: A_World_01_514
+  - first:
+      213: 7772354168354637172
+    second: A_World_01_515
+  - first:
+      213: -6641460977356522478
+    second: A_World_01_516
+  - first:
+      213: 6163605561608158485
+    second: A_World_01_517
+  - first:
+      213: 7985095438037778821
+    second: A_World_01_518
+  - first:
+      213: 2572037348951505040
+    second: A_World_01_519
+  - first:
+      213: 7742906543224098686
+    second: A_World_01_520
+  - first:
+      213: 4812479730656953051
+    second: A_World_01_521
+  - first:
+      213: -7702208288558609455
+    second: A_World_01_522
+  - first:
+      213: -732762675167109386
+    second: A_World_01_523
+  - first:
+      213: -8672192753404027730
+    second: A_World_01_524
+  - first:
+      213: -61772341665780272
+    second: A_World_01_525
+  - first:
+      213: -7065993528597972421
+    second: A_World_01_526
+  - first:
+      213: -756137192100191798
+    second: A_World_01_527
+  - first:
+      213: 5113307436108858457
+    second: A_World_01_528
+  - first:
+      213: 735269425086055951
+    second: A_World_01_529
+  - first:
+      213: -1432409091127131300
+    second: A_World_01_530
+  - first:
+      213: 4604322400063532157
+    second: A_World_01_531
+  - first:
+      213: 1351221176102428595
+    second: A_World_01_532
+  - first:
+      213: -934518542746586482
+    second: A_World_01_533
+  - first:
+      213: -5424681553822253614
+    second: A_World_01_534
+  - first:
+      213: -8988025527780185017
+    second: A_World_01_535
+  - first:
+      213: -5478150411010439250
+    second: A_World_01_536
+  - first:
+      213: 2993077470062470977
+    second: A_World_01_537
+  - first:
+      213: -1143967103246473362
+    second: A_World_01_538
+  - first:
+      213: 1230612550222624760
+    second: A_World_01_539
+  - first:
+      213: -7347844266930247750
+    second: A_World_01_540
+  - first:
+      213: -6412693929338285092
+    second: A_World_01_541
+  - first:
+      213: -376047317167448575
+    second: A_World_01_542
+  - first:
+      213: -6770536191969066975
+    second: A_World_01_543
+  - first:
+      213: 3191125340246262352
+    second: A_World_01_544
+  - first:
+      213: 8733902075289606269
+    second: A_World_01_545
+  - first:
+      213: -976173099750430850
+    second: A_World_01_546
+  - first:
+      213: 708954652070060191
+    second: A_World_01_547
+  - first:
+      213: 4122529900505114083
+    second: A_World_01_548
+  - first:
+      213: 1127720999132733359
+    second: A_World_01_549
+  - first:
+      213: 6879245250597043477
+    second: A_World_01_550
+  - first:
+      213: -2337702916518900292
+    second: A_World_01_551
+  - first:
+      213: 6903144878957678229
+    second: A_World_01_552
+  - first:
+      213: -333293811531195593
+    second: A_World_01_553
+  - first:
+      213: -7735435218082635826
+    second: A_World_01_554
+  - first:
+      213: -6707237820891279583
+    second: A_World_01_555
+  - first:
+      213: -4354404275694236844
+    second: A_World_01_556
+  - first:
+      213: 6323898476842037438
+    second: A_World_01_557
+  - first:
+      213: -2201811801973570487
+    second: A_World_01_558
+  - first:
+      213: -9203419610002136257
+    second: A_World_01_559
+  - first:
+      213: 301348746649677066
+    second: A_World_01_560
+  - first:
+      213: 5268728404783035308
+    second: A_World_01_561
+  - first:
+      213: 1478266158010956538
+    second: A_World_01_562
+  - first:
+      213: 3090211287011945900
+    second: A_World_01_563
+  - first:
+      213: -6794579460989263591
+    second: A_World_01_564
+  - first:
+      213: -2635327869291127484
+    second: A_World_01_565
+  - first:
+      213: -1449289173357200490
+    second: A_World_01_566
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_World_01_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1401
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8cfb5de1824a44b9d5395f2435c83
+      internalID: 1741248274606630546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1401
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0eec8fad3dc742b34a75f82424ed2
+      internalID: 903978082677785040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1401
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa146671f786e5a44b4b41c43f512ad8
+      internalID: 5936272881580820969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1471
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584af805880adc940b9fe2917e7aa580
+      internalID: 6574460437571194206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1349
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d361ded44c0ad43a44318e6e662f7f
+      internalID: 1546009557982624464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1346
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6cab64472c0fe49974eb7a48011865
+      internalID: -428231992802617059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1401
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93604a24b2410db40b6008cf8d4d3c4c
+      internalID: -4567042652290577881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_7
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1431
+        width: 172
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e82be3b31e8a741b2ae1e36237a7f9
+      internalID: -9140655066845218072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_8
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1297
+        width: 273
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab15b24a6d6f98049878ca5cfb325fe2
+      internalID: -2868704898248247726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_9
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1345
+        width: 301
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f676ae6c3ffcbc47b67693b504deabb
+      internalID: -3612522594728043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1410
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e090f7f449104c96c14e45fe76a9e
+      internalID: 6996179665129222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1407
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c161d553cb693ac41b89a20d85783779
+      internalID: 4138811970571159341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_12
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1319
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17754fa4533335f41a30bb3f15670de6
+      internalID: -5243718200838856961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1262
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e34847c575cd84c98418dc2147a82f
+      internalID: 6048437381227340445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1269
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7232b5cea6f00340ac63a04b1244aa8
+      internalID: 9173396719599774254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1269
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f6b7718c58864fbc6581534481bac
+      internalID: 1371002978681105712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1269
+        width: 67
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4f103b610f1b4699cddfe27300331
+      internalID: 4349993738846579807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1352
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449deee5c522f4c4fbcc8840548dcdd2
+      internalID: -7814944816081958477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f708faf3fa364393ddf7f28f9061a
+      internalID: -989493812156485650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1317
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a778e75e34a03e4c8548e4b3a8cf4fe
+      internalID: -6127544323160738864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_20
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1238
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43801975b0f6c43a72898579abaf3e
+      internalID: 911793103177857359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1261
+        width: 168
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b48948c2ba9f428c2ba981edcb89d
+      internalID: -7564001040847595644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1262
+        width: 158
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d1126f1d4cc64387280c29a71f138
+      internalID: 1460608339716294282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1181
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70f7421c0c5ea49a3443cb8d51cf73
+      internalID: 1116808396542164737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_24
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1149
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0063671ea3504304bace8a3ad0be04d6
+      internalID: 8407973687502127267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_25
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1075
+        width: 233
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131d8c637273594bb1e5aeb291ffece
+      internalID: 5737126724636594826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_26
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1172
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800ab2cf27f1fe4f84a91ac038b04f5
+      internalID: 3986104787110579171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1140
+        width: 140
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623496b0d484054fbc474b8c9090fac
+      internalID: -4333067745979706721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1143
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0dc4e4193ab8e4f88afeadd207bc89
+      internalID: 1466929284182671757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1136
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2f03c4dff0b746978da89034e6c4d
+      internalID: 1296756400809388237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_30
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 996
+        width: 393
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681e7a3f98a39244ad29e889869069e
+      internalID: 193609273614674672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_31
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 993
+        width: 392
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e48da98350f943b447a04f5589eea
+      internalID: 5764612153893305813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 980
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a10a82db32f14faee0420c3284478
+      internalID: 6775185000749391204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 980
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030bd722efcf244c97fd59bfeacde9d
+      internalID: 5323973810658890475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 980
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb7358851a8304fada1091177c3fa6
+      internalID: 2652455800644764567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_35
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1037
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cadec3dec099f24eaeb33da005e8634
+      internalID: -3586576896496291842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_36
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 840
+        width: 252
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1121984dee3824ba9783d45619e179
+      internalID: 4216308070552207921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 810
+        width: 168
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51688a9a84bf2469164e0c981922a0
+      internalID: -5612518750474856846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 809
+        width: 183
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6f0e9eed9bf340a1cf91fa19f58cc
+      internalID: -7413270960160790958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 878
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de072d88d8b4984393436fa33a858d4
+      internalID: -1339208342609821206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_40
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 815
+        width: 175
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09dc24648e07df4c95ae3988753d55c
+      internalID: 7414329492221589921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 890
+        width: 120
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ab93c8a2add944af91c8d51c60808
+      internalID: 3276367259147289455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_42
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 824
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6126de9a94d9440abf055c4a9e3016
+      internalID: 8796516572579567594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_43
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 824
+        width: 149
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b6041fbe6cf84ebb6808561b8a2ac
+      internalID: 4328104519082547379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_44
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 773
+        width: 429
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c16307dd64d8e4fa22796d45ffa642
+      internalID: 683183290304149292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 816
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee343049fc6d5143b6754402c39bf51
+      internalID: -6606028856969966855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_46
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 792
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2f97f9ca6ec34fab1e0f334dffa2e
+      internalID: -5910585029164190461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 593
+        width: 55
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc5744b1644ac42b5c6a5ad11184e6
+      internalID: 95751501380182036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 592
+        width: 80
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464040c12ba61604f8e09548db15887b
+      internalID: -1522472741835045902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 595
+        width: 49
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382dc2b3e808fc84dafe3e3735c841a2
+      internalID: -6033665601031140193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 597
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84754be5ad6d9ec4fb77f1bca051bc0f
+      internalID: 3158710730396263199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 595
+        width: 56
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae67e5292226c7428d82e8000abf746
+      internalID: -133412962923894410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 594
+        width: 80
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc206cc2ff5e82e46a5c570b5d6ae752
+      internalID: 133446533020044416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_53
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 603
+        width: 204
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f599fc45d5374b8ce45c99f5bc928
+      internalID: -5435636694791356241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_54
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 604
+        width: 222
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5771381765725d44909e5d22a6d08c2
+      internalID: -399988344700392491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_55
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 441
+        width: 229
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75874db4d052be543a3250d7e1d13d42
+      internalID: -4801394081087631439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 362
+        width: 508
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da56335b483771742baf36c45533ff81
+      internalID: -4033072416565103145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_57
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 478
+        width: 428
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f23780762b0504a947d96167231cd9
+      internalID: -2409210742701801137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 464
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860842624c34b84cb500a923130e19e
+      internalID: -2444371631603701506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_59
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 477
+        width: 169
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f0ef55f31a1e48988718b16853419
+      internalID: -8444141957386927383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 72
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8b5a8b241c3343be9f8a3daae0fdb
+      internalID: -2551553568610581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 370
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0301acfc9c7800242854cb2894b3bdab
+      internalID: 2114911227109744694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_62
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 312
+        width: 173
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2cb848a088f84ca16d461951dd90e
+      internalID: 7960016073489627366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_63
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 337
+        width: 239
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b8955c30643c47865fb74c289fee8
+      internalID: -789498545215766439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_64
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 223
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4864656f23792b48a5d1ef9d127faeb
+      internalID: 2274725187329110476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_65
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 223
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2141fb8ad0812a4d86d3b9eb26f2d74
+      internalID: 5221882436889113601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_66
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 223
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867178044b808c41b881d0a9a6792d3
+      internalID: 4044335823404224769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_67
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 223
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce76fcba1ab6c54688a1fe636c3884f
+      internalID: 3141829336886323056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_68
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 120
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6286a97a593943abd57012ed85f70
+      internalID: -1437432519868556903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_69
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 120
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6c0d616f8db74d8f720642b09ec43
+      internalID: 9026513317083448586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_World_01_70
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 22
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef891774dae4ef41a64ba253e037c65
+      internalID: 6274268914553627006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

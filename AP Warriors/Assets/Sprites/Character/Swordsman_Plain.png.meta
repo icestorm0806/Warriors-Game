@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 7bb1e68b0cc1a554d9528da676f2b769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4446533945492605023
+    second: Plain_Swordsman_0
+  - first:
+      213: 6266981052034602840
+    second: Plain_Swordsman_1
+  - first:
+      213: -4682798985488891118
+    second: Plain_Swordsman_2
+  - first:
+      213: -8539532505627934984
+    second: Plain_Swordsman_3
+  - first:
+      213: 546001584942932667
+    second: Plain_Swordsman_4
+  - first:
+      213: 3352996911600756201
+    second: Plain_Swordsman_5
+  - first:
+      213: -7495620470346146375
+    second: Plain_Swordsman_6
+  - first:
+      213: 177571009389184655
+    second: Plain_Swordsman_7
+  - first:
+      213: 1231275257193912386
+    second: Plain_Swordsman_8
+  - first:
+      213: -3986167481839936470
+    second: Plain_Swordsman_9
+  - first:
+      213: -8423487268022611188
+    second: Plain_Swordsman_10
+  - first:
+      213: -5086054842902894109
+    second: Plain_Swordsman_11
+  - first:
+      213: 7717465043273189335
+    second: Plain_Swordsman_12
+  - first:
+      213: -3232788434931818681
+    second: Plain_Swordsman_13
+  - first:
+      213: 2315461703080245075
+    second: Plain_Swordsman_14
+  - first:
+      213: 2409226911564236531
+    second: Plain_Swordsman_15
+  - first:
+      213: 4732943238835397722
+    second: Plain_Swordsman_16
+  - first:
+      213: -3777080009783645700
+    second: Plain_Swordsman_17
+  - first:
+      213: -4529478148198141908
+    second: Plain_Swordsman_18
+  - first:
+      213: 733583743666213779
+    second: Plain_Swordsman_19
+  - first:
+      213: 4116853801739560193
+    second: Plain_Swordsman_20
+  - first:
+      213: 5474431745773717995
+    second: Plain_Swordsman_21
+  - first:
+      213: -1188846603450551664
+    second: Plain_Swordsman_22
+  - first:
+      213: -444060814654310231
+    second: Plain_Swordsman_23
+  - first:
+      213: 5350518480225217715
+    second: Plain_Swordsman_24
+  - first:
+      213: 4944907390178019244
+    second: Plain_Swordsman_25
+  - first:
+      213: -8925431914860714557
+    second: Plain_Swordsman_26
+  - first:
+      213: 6761288988319485642
+    second: Plain_Swordsman_27
+  - first:
+      213: -855430470035144861
+    second: Plain_Swordsman_28
+  - first:
+      213: -3610554512487494945
+    second: Plain_Swordsman_29
+  - first:
+      213: -6649827825004268314
+    second: Plain_Swordsman_30
+  - first:
+      213: -267326070626786234
+    second: Plain_Swordsman_31
+  - first:
+      213: -238555113080916361
+    second: Plain_Swordsman_32
+  - first:
+      213: 4835482610722195962
+    second: Plain_Swordsman_33
+  - first:
+      213: -3495063241231984389
+    second: Plain_Swordsman_34
+  - first:
+      213: -95737259161910247
+    second: Plain_Swordsman_35
+  - first:
+      213: -8237355072969181891
+    second: Plain_Swordsman_36
+  - first:
+      213: -4547000926705149396
+    second: Plain_Swordsman_37
+  - first:
+      213: -1800801720636347491
+    second: Plain_Swordsman_38
+  - first:
+      213: 5527609172246935554
+    second: Plain_Swordsman_39
+  - first:
+      213: 5098438435935194184
+    second: Plain_Swordsman_40
+  - first:
+      213: 8223887509955511090
+    second: Plain_Swordsman_41
+  - first:
+      213: -7764405824618062052
+    second: Plain_Swordsman_42
+  - first:
+      213: 7494581249752490482
+    second: Plain_Swordsman_43
+  - first:
+      213: -4935725798238097159
+    second: Plain_Swordsman_44
+  - first:
+      213: -8739067939567679942
+    second: Plain_Swordsman_45
+  - first:
+      213: -7596780802918342684
+    second: Plain_Swordsman_46
+  - first:
+      213: 1587823791056466149
+    second: Plain_Swordsman_47
+  - first:
+      213: 8520391578220492429
+    second: Plain_Swordsman_48
+  - first:
+      213: 6791220892436521121
+    second: Plain_Swordsman_49
+  - first:
+      213: 2455763750883755771
+    second: Plain_Swordsman_50
+  - first:
+      213: 1288298947039599252
+    second: Plain_Swordsman_51
+  - first:
+      213: -2033069779908239184
+    second: Plain_Swordsman_52
+  - first:
+      213: -8386990529042486661
+    second: Plain_Swordsman_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plain_Swordsman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4506a7acf0c44d9d0462933fcc7e8
+      internalID: 4446533945492605023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1b903cd76c5f4e847f9519b484962
+      internalID: 6266981052034602840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa5222e5f9aa44793a855cbc760bb1
+      internalID: -4682798985488891118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38588addf1a57814bb6e5e4c956c06ea
+      internalID: -8539532505627934984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27df82636358646b486ece6f4ba9c4
+      internalID: 546001584942932667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0cbc0fe97c6a499a7f265b132f77e
+      internalID: 3352996911600756201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 640
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d4386282fa27645a758ca56927132a
+      internalID: -7495620470346146375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 512
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47de3e6721e88964c901cb7bf63cacfc
+      internalID: 7717465043273189335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 512
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87b56f564d2fa49b241885be38e1ca
+      internalID: -3232788434931818681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 512
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec269ff02abd464da5a0bae25f41f46
+      internalID: 2315461703080245075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 512
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e362f18e3297fbc49a9190b04b59ed42
+      internalID: 2409226911564236531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 384
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0657d12696f9884aad03186930c0278
+      internalID: 4116853801739560193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 384
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c8a2080bca4945b2a3fa1e68b32d8
+      internalID: 5474431745773717995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_22
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2012fa9e8f3d40b740cd71c9a9f2a
+      internalID: -1188846603450551664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_23
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 384
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6732c5fdc3acd244bb8cd04dfa784eb
+      internalID: -444060814654310231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 384
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d107831185bd4ab3240bd37689eb1
+      internalID: 5350518480225217715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a15a7f534714e46bd4956eb1770214
+      internalID: 6761288988319485642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf931e6ddf00a43b8229b1e75c5e57
+      internalID: -855430470035144861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f01299c8bf8145bb865c5cd29a11d
+      internalID: -3610554512487494945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290921b633363154ab0a9a6a60b21bc0
+      internalID: -1800801720636347491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain_Swordsman_51
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0c42f5cfad54489fbecfb0e980bec
+      internalID: 1288298947039599252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

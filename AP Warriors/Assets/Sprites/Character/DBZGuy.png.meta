@@ -1,0 +1,5191 @@
+fileFormatVersion: 2
+guid: 84d5bc91ea5762145a57d179a5f9d84a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3432736839130010900
+    second: pngguru.com_0
+  - first:
+      213: -1717502012141642764
+    second: pngguru.com_1
+  - first:
+      213: 2515587500238446403
+    second: pngguru.com_2
+  - first:
+      213: 5854094739026040358
+    second: pngguru.com_3
+  - first:
+      213: -7415873913358178959
+    second: pngguru.com_4
+  - first:
+      213: 14836019936920713
+    second: pngguru.com_5
+  - first:
+      213: -5114810975309587403
+    second: pngguru.com_6
+  - first:
+      213: 4753985030565952438
+    second: pngguru.com_7
+  - first:
+      213: 8210861292294955285
+    second: pngguru.com_8
+  - first:
+      213: -3843037445616679044
+    second: pngguru.com_9
+  - first:
+      213: -2153444252339638645
+    second: pngguru.com_10
+  - first:
+      213: 6084733202145191569
+    second: pngguru.com_11
+  - first:
+      213: 2762617867990989774
+    second: pngguru.com_12
+  - first:
+      213: 6250121970769669458
+    second: pngguru.com_13
+  - first:
+      213: 7473055169283263000
+    second: pngguru.com_14
+  - first:
+      213: -6165155172542177813
+    second: pngguru.com_15
+  - first:
+      213: 5887329290329021229
+    second: pngguru.com_16
+  - first:
+      213: -6920227761265532458
+    second: pngguru.com_17
+  - first:
+      213: 6609390105816410413
+    second: pngguru.com_18
+  - first:
+      213: 4489280135304377311
+    second: pngguru.com_19
+  - first:
+      213: 4893350522874324345
+    second: pngguru.com_20
+  - first:
+      213: -6106867479297984939
+    second: pngguru.com_21
+  - first:
+      213: -1695871877604676056
+    second: pngguru.com_22
+  - first:
+      213: 5051768326496927327
+    second: pngguru.com_23
+  - first:
+      213: 2679107902028188779
+    second: pngguru.com_24
+  - first:
+      213: -6670794440657320413
+    second: pngguru.com_25
+  - first:
+      213: -2689616984907116596
+    second: pngguru.com_26
+  - first:
+      213: 6543000234000017358
+    second: pngguru.com_27
+  - first:
+      213: -3105598154561697686
+    second: pngguru.com_28
+  - first:
+      213: 847486922091710574
+    second: pngguru.com_29
+  - first:
+      213: 2785876720691337581
+    second: pngguru.com_30
+  - first:
+      213: -4139890651789404092
+    second: pngguru.com_31
+  - first:
+      213: 7923857015784770624
+    second: pngguru.com_32
+  - first:
+      213: -849166343393932329
+    second: pngguru.com_33
+  - first:
+      213: 5510213542825608787
+    second: pngguru.com_34
+  - first:
+      213: -2635686908780117039
+    second: pngguru.com_35
+  - first:
+      213: -7286868723628314126
+    second: pngguru.com_36
+  - first:
+      213: 7714747499914123948
+    second: pngguru.com_37
+  - first:
+      213: -3438498398956488220
+    second: pngguru.com_38
+  - first:
+      213: -3845034220294934143
+    second: pngguru.com_39
+  - first:
+      213: 898934104401980194
+    second: pngguru.com_40
+  - first:
+      213: 1754738573109304211
+    second: pngguru.com_41
+  - first:
+      213: 56001797222739548
+    second: pngguru.com_42
+  - first:
+      213: 5590007751274069525
+    second: pngguru.com_43
+  - first:
+      213: 9186070113513287850
+    second: pngguru.com_44
+  - first:
+      213: 3837129537885531477
+    second: pngguru.com_45
+  - first:
+      213: -1484000698685524777
+    second: pngguru.com_46
+  - first:
+      213: -6988287692998526336
+    second: pngguru.com_47
+  - first:
+      213: -4873837338349364906
+    second: pngguru.com_48
+  - first:
+      213: -6945255461928407607
+    second: pngguru.com_49
+  - first:
+      213: 3467604592515288964
+    second: pngguru.com_50
+  - first:
+      213: -5880461435249085643
+    second: pngguru.com_51
+  - first:
+      213: 2299806666394212986
+    second: pngguru.com_52
+  - first:
+      213: -168328717107757830
+    second: pngguru.com_53
+  - first:
+      213: 6742911470205879593
+    second: pngguru.com_54
+  - first:
+      213: 5463254165621711593
+    second: pngguru.com_55
+  - first:
+      213: 7244119162589895290
+    second: pngguru.com_56
+  - first:
+      213: -2500909588328246144
+    second: pngguru.com_57
+  - first:
+      213: 959693873953979377
+    second: pngguru.com_58
+  - first:
+      213: 9040851386101416891
+    second: pngguru.com_59
+  - first:
+      213: -3214966254364120456
+    second: pngguru.com_60
+  - first:
+      213: -9081637265514196906
+    second: pngguru.com_61
+  - first:
+      213: 7084570793508834372
+    second: pngguru.com_62
+  - first:
+      213: 9151361885527183344
+    second: pngguru.com_63
+  - first:
+      213: -379367290364503480
+    second: pngguru.com_64
+  - first:
+      213: 7126254218367908158
+    second: pngguru.com_65
+  - first:
+      213: 5995828579794602884
+    second: pngguru.com_66
+  - first:
+      213: 5619696088567732279
+    second: pngguru.com_67
+  - first:
+      213: 8638587641131524199
+    second: pngguru.com_68
+  - first:
+      213: 3860777985606004510
+    second: pngguru.com_69
+  - first:
+      213: -5004501870729106566
+    second: pngguru.com_70
+  - first:
+      213: -3119087251501961374
+    second: pngguru.com_71
+  - first:
+      213: -7381954755509121631
+    second: pngguru.com_72
+  - first:
+      213: 8635113675954100814
+    second: pngguru.com_73
+  - first:
+      213: 3214777842594572526
+    second: pngguru.com_74
+  - first:
+      213: 525664319218692068
+    second: pngguru.com_75
+  - first:
+      213: 1150862952111367502
+    second: pngguru.com_76
+  - first:
+      213: 8286219769801765242
+    second: pngguru.com_77
+  - first:
+      213: 7497811499804960913
+    second: pngguru.com_78
+  - first:
+      213: -5422956085481205502
+    second: pngguru.com_79
+  - first:
+      213: 2348658624678442908
+    second: pngguru.com_80
+  - first:
+      213: -8681799944120799379
+    second: pngguru.com_81
+  - first:
+      213: 341230716430650556
+    second: pngguru.com_82
+  - first:
+      213: 6200010645672432171
+    second: pngguru.com_83
+  - first:
+      213: 2368285138692456460
+    second: pngguru.com_84
+  - first:
+      213: 4297336793246218862
+    second: pngguru.com_85
+  - first:
+      213: -5826349077106586763
+    second: pngguru.com_86
+  - first:
+      213: -7993827066972330343
+    second: pngguru.com_87
+  - first:
+      213: -5701909585786865765
+    second: pngguru.com_88
+  - first:
+      213: -2504118948958142536
+    second: pngguru.com_89
+  - first:
+      213: -2702402285988700794
+    second: pngguru.com_90
+  - first:
+      213: -7243838599831532937
+    second: pngguru.com_91
+  - first:
+      213: -5749883234217722927
+    second: pngguru.com_92
+  - first:
+      213: 1787311139371976360
+    second: pngguru.com_93
+  - first:
+      213: -1705445228287473084
+    second: pngguru.com_94
+  - first:
+      213: -9083814610502760432
+    second: pngguru.com_95
+  - first:
+      213: 7189382195994360499
+    second: pngguru.com_96
+  - first:
+      213: 5668240318563229769
+    second: pngguru.com_97
+  - first:
+      213: -4284300635501571686
+    second: pngguru.com_98
+  - first:
+      213: 7415276185828929164
+    second: pngguru.com_99
+  - first:
+      213: 7619861049471023899
+    second: pngguru.com_100
+  - first:
+      213: -3966897916973734092
+    second: pngguru.com_101
+  - first:
+      213: -1600932337563794813
+    second: pngguru.com_102
+  - first:
+      213: -7338863002773424848
+    second: pngguru.com_103
+  - first:
+      213: -674176844858107493
+    second: pngguru.com_104
+  - first:
+      213: -7863002422627685549
+    second: pngguru.com_105
+  - first:
+      213: 6128946361337277466
+    second: pngguru.com_106
+  - first:
+      213: 6102161891013377272
+    second: pngguru.com_107
+  - first:
+      213: 2839006388683603924
+    second: pngguru.com_108
+  - first:
+      213: -4248485731194872575
+    second: pngguru.com_109
+  - first:
+      213: -215608682580911729
+    second: pngguru.com_110
+  - first:
+      213: 7225530831735469329
+    second: pngguru.com_111
+  - first:
+      213: -625541000394258019
+    second: pngguru.com_112
+  - first:
+      213: -858087226775522724
+    second: pngguru.com_113
+  - first:
+      213: -2127337837577946795
+    second: pngguru.com_114
+  - first:
+      213: 3631232286797139480
+    second: pngguru.com_115
+  - first:
+      213: -528715322968182972
+    second: pngguru.com_116
+  - first:
+      213: 5577384787550576838
+    second: pngguru.com_117
+  - first:
+      213: 7525677057382328486
+    second: pngguru.com_118
+  - first:
+      213: -851630001868928665
+    second: pngguru.com_119
+  - first:
+      213: 4828526187679652521
+    second: pngguru.com_120
+  - first:
+      213: 5895457727091777137
+    second: pngguru.com_121
+  - first:
+      213: 7199330549861440359
+    second: pngguru.com_122
+  - first:
+      213: -8019097721923183272
+    second: pngguru.com_123
+  - first:
+      213: 2620784533473330507
+    second: pngguru.com_124
+  - first:
+      213: 4887682233606592561
+    second: pngguru.com_125
+  - first:
+      213: -9174970024770791131
+    second: pngguru.com_126
+  - first:
+      213: 7439351095501974506
+    second: pngguru.com_127
+  - first:
+      213: -4354632100792884177
+    second: pngguru.com_128
+  - first:
+      213: 2236166364964142777
+    second: pngguru.com_129
+  - first:
+      213: 2658608516448830582
+    second: pngguru.com_130
+  - first:
+      213: -5113187767292812381
+    second: pngguru.com_131
+  - first:
+      213: -7496130458121797311
+    second: pngguru.com_132
+  - first:
+      213: -9122671323005966233
+    second: pngguru.com_133
+  - first:
+      213: 6022880844006942052
+    second: pngguru.com_134
+  - first:
+      213: 3987977890441076750
+    second: pngguru.com_135
+  - first:
+      213: 387076074422709139
+    second: pngguru.com_136
+  - first:
+      213: -8874311418081017308
+    second: pngguru.com_137
+  - first:
+      213: -5885230352361282890
+    second: pngguru.com_138
+  - first:
+      213: 5824363538832429708
+    second: pngguru.com_139
+  - first:
+      213: -5769011354058765
+    second: pngguru.com_140
+  - first:
+      213: 602275843457642867
+    second: pngguru.com_141
+  - first:
+      213: -2112735249183255974
+    second: pngguru.com_142
+  - first:
+      213: -348769033458469377
+    second: pngguru.com_143
+  - first:
+      213: -348705594123724614
+    second: pngguru.com_144
+  - first:
+      213: -8792953212812879524
+    second: pngguru.com_145
+  - first:
+      213: 7382984026320618336
+    second: pngguru.com_146
+  - first:
+      213: 232717144816761996
+    second: pngguru.com_147
+  - first:
+      213: 4970284875762037150
+    second: pngguru.com_148
+  - first:
+      213: 2562309115945509078
+    second: pngguru.com_149
+  - first:
+      213: -5878884968511902906
+    second: pngguru.com_150
+  - first:
+      213: -6842838540592447756
+    second: pngguru.com_151
+  - first:
+      213: 6256135032810099214
+    second: pngguru.com_152
+  - first:
+      213: 7460101315666817605
+    second: pngguru.com_153
+  - first:
+      213: 8972984135836773532
+    second: pngguru.com_154
+  - first:
+      213: -6327106731089467763
+    second: pngguru.com_155
+  - first:
+      213: 1353341832476587669
+    second: pngguru.com_156
+  - first:
+      213: 4772603309704980391
+    second: pngguru.com_157
+  - first:
+      213: 3720586938676176717
+    second: pngguru.com_158
+  - first:
+      213: 7109768345859309971
+    second: pngguru.com_159
+  - first:
+      213: -7817792060118342881
+    second: pngguru.com_160
+  - first:
+      213: 1193274978915198486
+    second: pngguru.com_161
+  - first:
+      213: -3936386595811022365
+    second: pngguru.com_162
+  - first:
+      213: 2526091955332980133
+    second: pngguru.com_163
+  - first:
+      213: 7102788147510959030
+    second: pngguru.com_164
+  - first:
+      213: 9192673312414204438
+    second: pngguru.com_165
+  - first:
+      213: -112528433659764914
+    second: pngguru.com_166
+  - first:
+      213: 1437118437075470279
+    second: pngguru.com_167
+  - first:
+      213: -3552969329434426234
+    second: pngguru.com_168
+  - first:
+      213: -6037139716970934789
+    second: pngguru.com_169
+  - first:
+      213: -8693105418772210049
+    second: pngguru.com_170
+  - first:
+      213: -1330195528890165169
+    second: pngguru.com_171
+  - first:
+      213: -4457512540130349645
+    second: pngguru.com_172
+  - first:
+      213: -864011229607957574
+    second: pngguru.com_173
+  - first:
+      213: 2434974413419495812
+    second: pngguru.com_174
+  - first:
+      213: 6748025210131818218
+    second: pngguru.com_175
+  - first:
+      213: -3533970919178017565
+    second: pngguru.com_176
+  - first:
+      213: 400784702721530758
+    second: pngguru.com_177
+  - first:
+      213: 6233887985505064222
+    second: pngguru.com_178
+  - first:
+      213: 1075676809945063457
+    second: pngguru.com_179
+  - first:
+      213: 1817597914460596365
+    second: pngguru.com_180
+  - first:
+      213: 2815171382788395960
+    second: pngguru.com_181
+  - first:
+      213: 6981121288008941977
+    second: pngguru.com_182
+  - first:
+      213: 1346653687545913908
+    second: pngguru.com_183
+  - first:
+      213: 3587169165487184003
+    second: pngguru.com_184
+  - first:
+      213: -1837621227672473022
+    second: pngguru.com_185
+  - first:
+      213: 4837925425414378250
+    second: pngguru.com_186
+  - first:
+      213: 5941354920056403524
+    second: pngguru.com_187
+  - first:
+      213: 2253019022326709264
+    second: pngguru.com_188
+  - first:
+      213: -2780210082849548607
+    second: pngguru.com_189
+  - first:
+      213: -5491094361086241601
+    second: pngguru.com_190
+  - first:
+      213: -4851196855344145678
+    second: pngguru.com_191
+  - first:
+      213: 5846855555059445031
+    second: pngguru.com_192
+  - first:
+      213: -6886550086186111023
+    second: pngguru.com_193
+  - first:
+      213: 8290850816784103269
+    second: pngguru.com_194
+  - first:
+      213: 5363330897427692790
+    second: pngguru.com_195
+  - first:
+      213: 7307845965219619299
+    second: pngguru.com_196
+  - first:
+      213: 5521263882246460925
+    second: pngguru.com_197
+  - first:
+      213: 1942682536874601419
+    second: pngguru.com_198
+  - first:
+      213: -8328248875867402945
+    second: pngguru.com_199
+  - first:
+      213: 7250430088378571026
+    second: pngguru.com_200
+  - first:
+      213: 9141805310065667313
+    second: pngguru.com_201
+  - first:
+      213: 3646184770291538941
+    second: pngguru.com_202
+  - first:
+      213: -4829291080117270335
+    second: pngguru.com_203
+  - first:
+      213: -7883265684531770646
+    second: pngguru.com_204
+  - first:
+      213: 8625662713465055201
+    second: pngguru.com_205
+  - first:
+      213: -7946923662651536488
+    second: pngguru.com_206
+  - first:
+      213: 1102199273181819883
+    second: pngguru.com_207
+  - first:
+      213: 7781043873556580393
+    second: pngguru.com_208
+  - first:
+      213: -4401690671174454889
+    second: pngguru.com_209
+  - first:
+      213: 5335129559316668314
+    second: pngguru.com_210
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngguru.com_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1477
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c8a7110ff53894eae46f3edac21aed
+      internalID: 3432736839130010900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1477
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1424b67ae577e41b1be2faa82b008d
+      internalID: -1717502012141642764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1476
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e2836bd90da614994017c6272947e7
+      internalID: 2515587500238446403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1491
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c9e65172627e469e89ec7e925d65b
+      internalID: 5854094739026040358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1474
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e5ef801d9495438930a07b33aa810
+      internalID: -7415873913358178959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1481
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5e7a5a5776f34586754af05cf6941
+      internalID: 14836019936920713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1480
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db00e24554577440b6d3a720f340783
+      internalID: -5114810975309587403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1478
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d304631496485479f6f120ab8242ab
+      internalID: 4753985030565952438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1480
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175fdea8fbfb5a34e93ecc058f937927
+      internalID: 8210861292294955285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1420
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a4a54d1951eb40a777a4f5ac4d044
+      internalID: -3843037445616679044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1418
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8bb29ca2d4534b88415425ced8c76
+      internalID: -2153444252339638645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1411
+        width: 10
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271df38fb47662c469461b68e53f2de1
+      internalID: 6084733202145191569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1422
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b392b5bd1569a4e82c2f42b6d34e62
+      internalID: 2762617867990989774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1421
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846e044b4aab3b439e6a7fa36d07bfd
+      internalID: 6250121970769669458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1422
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac6dcd1b2204754792f62db25c1dc42
+      internalID: 7473055169283263000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1423
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de6378d5a69f24eb1724e0296a55ec
+      internalID: -6165155172542177813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1423
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db5aa0ef7d94045b7ecda048c2aa1e
+      internalID: 5887329290329021229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1423
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fd96d74b52344398dc9a0cdf0ed51
+      internalID: -6920227761265532458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1424
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c1b17d97181340bed798db5fdb96d
+      internalID: 6609390105816410413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1424
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c3b6fad90a9f47a1f327f502133ba
+      internalID: 4489280135304377311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1424
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4f8dcdb9cc974ab77de27b266ee4d
+      internalID: 4893350522874324345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1422
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f77f2b90a03b74da234e4f125ef6a1
+      internalID: -6106867479297984939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1363
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25359dc5c7467545be95a388d94ea99
+      internalID: -1695871877604676056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1364
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5eff23f378e424b8cbe1b6ea8aa598
+      internalID: 5051768326496927327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1363
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b3b9ac0ee72a4681d27278c22813e
+      internalID: 2679107902028188779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1364
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc6f053fdd32d46add487853766dc8
+      internalID: -6670794440657320413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1359
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc75f4e1fba894b9ea08ebdb33f88b
+      internalID: -2689616984907116596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1366
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e524a7cf57a9544481fcede598e8d1c
+      internalID: 6543000234000017358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1366
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335394f343d18f4e8215a0a3b05c237
+      internalID: -3105598154561697686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1366
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc400b339ad264baacc4e9dbdd9ac7
+      internalID: 847486922091710574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1366
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403bd9a009effe5449354e58609e3551
+      internalID: 2785876720691337581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1366
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301791eb4f79d444980e45c6ff5e8bf
+      internalID: -4139890651789404092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1366
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9a6f8b650456449675063599268a5
+      internalID: 7923857015784770624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1300
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f97584904c88f4c962748ffdc76572
+      internalID: -849166343393932329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1301
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ef06dee3f76044a7524101d6bc69b
+      internalID: 5510213542825608787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1301
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f258f90641681542b70804727183f9f
+      internalID: -2635686908780117039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1301
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31c59777aba3d4a82bf1461addb2a1
+      internalID: -7286868723628314126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1303
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be148f3312e534c860e8769f2699cf
+      internalID: 7714747499914123948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1303
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a53d559cb92444587ebf984d729a4f
+      internalID: -3438498398956488220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1303
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f778c7dc216843ba63c157661bd10
+      internalID: -3845034220294934143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1311
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785de6e7f20f5742a3cf5afe44957e1
+      internalID: 898934104401980194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1293
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7cb2f57edcf1645b2174bb563bc649
+      internalID: 1754738573109304211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1305
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3adabb0612fea409198c98b12a3ce2
+      internalID: 56001797222739548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_43
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1307
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231b45b3334b1f438cf79361c9697da
+      internalID: 5590007751274069525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1305
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578714b9b88e986449484c22de6a1fae
+      internalID: 9186070113513287850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1240
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51299d805dbe0014a81d16d327378355
+      internalID: 3837129537885531477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1240
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdebd61a59872438b2209d3a8032c1
+      internalID: -1484000698685524777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_47
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1240
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21656bfddd68434b9bb3882343d58f3
+      internalID: -6988287692998526336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1239
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5613ba9478c14f643862718ae165ee6d
+      internalID: -4873837338349364906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_49
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1239
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa4d8c6f29f6b4fa0f95dbcc36d298
+      internalID: -6945255461928407607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1239
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daba58ac5d7f5e4c980a3a6e3f4ff13
+      internalID: 3467604592515288964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1245
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9fb9fba7cfffe40bed04aa30325721
+      internalID: -5880461435249085643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1260
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5028282ff521a4ca183bb0b484f152
+      internalID: 2299806666394212986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_53
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b01bfb0b0270ea428fedd713b62bbfc
+      internalID: -168328717107757830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_54
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1260
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d71e985f2188e4bb40a127c0113856
+      internalID: 6742911470205879593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1186
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4c8521b647154389631d0d4152b50
+      internalID: 5463254165621711593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1188
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae971066b17df4c92bd0e531bdfcd9
+      internalID: 7244119162589895290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1188
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71097fa02c5025f4ea3a32fe5ff51458
+      internalID: -2500909588328246144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1186
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537da8d50c873844293d6887a1ab4d61
+      internalID: 959693873953979377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1180
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3dd00ab5dc43e46a74315716832b82
+      internalID: 9040851386101416891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_60
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1180
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf19280bf6a88b4d94b76889ddd6b0f
+      internalID: -3214966254364120456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1180
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d32a284bb9be4689b3ffe69ab6b20
+      internalID: -9081637265514196906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1180
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede29f35b1c2b0346be6215fa9905c77
+      internalID: 7084570793508834372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_63
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1181
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc0149442f52a049beee94898d393d6
+      internalID: 9151361885527183344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1181
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f292c1ede199419b48515fb7fa1b3
+      internalID: -379367290364503480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1180
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357be2875677e94b87c8532fc056f97
+      internalID: 7126254218367908158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1125
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7585721548fd64c951eddfa328e4ab
+      internalID: 5995828579794602884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_67
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1125
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b355927724850c54fbcbd8f95e2bfba7
+      internalID: 5619696088567732279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1125
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ab5676f10c774ba356e51d99a4ac4
+      internalID: 8638587641131524199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1125
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2367f5a300bb804db8ba58cf8d21d4b
+      internalID: 3860777985606004510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1125
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d242d3ae02d007478a4a003fc5e3213
+      internalID: -5004501870729106566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1126
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb9b9ecb7dc0224f93746e1eed62bea
+      internalID: -3119087251501961374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1126
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212fca78d173b249bfdfa9632b81e0c
+      internalID: -7381954755509121631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1114
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091767296dcfbb44f99786742ea3638d
+      internalID: 8635113675954100814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1120
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f27f24490e9467418f82cdf928b0dad
+      internalID: 3214777842594572526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_75
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1118
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e394a63de1bf1408ad3387a6cbd1aa
+      internalID: 525664319218692068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1058
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb685957ffb314bb31c23edf411f47
+      internalID: 1150862952111367502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1058
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4432bd39726050149abb1bd7c6e6e885
+      internalID: 8286219769801765242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1058
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59510924754c484f93fb6b908d85af2
+      internalID: 7497811499804960913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1058
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46830aef1b5f97840a6de30d176d3106
+      internalID: -5422956085481205502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1058
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff9322cdf3aa94a9f28eee0b1e15df
+      internalID: 2348658624678442908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_81
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1058
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5080e85112b74d8bd48a8f1f41e54
+      internalID: -8681799944120799379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_82
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1060
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be4bbbb7660ed842abe4e5f2c834e1b
+      internalID: 341230716430650556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1060
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29305d1bbf1daf4086d155c9d16f6a9
+      internalID: 6200010645672432171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1060
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb7d62b7ced244c8a5ee18b4db1623
+      internalID: 2368285138692456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_85
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1060
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70655df67233db74580088387dfb8004
+      internalID: 4297336793246218862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_86
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1060
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe150f6814d4a044b8b70f5aa545d25
+      internalID: -5826349077106586763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 998
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f86b3e9ac1ec44eb827744eebc56b0
+      internalID: -7993827066972330343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1008
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54aa9aaff3feea41872f7d757b6a425
+      internalID: -5701909585786865765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1005
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c009f52d31494daf74d25d78e90e8
+      internalID: -2504118948958142536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1001
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24304f33e972d439324850c11f82ea
+      internalID: -2702402285988700794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1001
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d230501497ea428fdf8e90c75226d
+      internalID: -7243838599831532937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_92
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1002
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361c718a5114894d95772848bf3de24
+      internalID: -5749883234217722927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1001
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511018afafb0d3747aabfc1ea34cb816
+      internalID: 1787311139371976360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_94
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 994
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee170d390a707949bb3cca663a72be3
+      internalID: -1705445228287473084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 930
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6518a902bd20c149a56c15505dcdf23
+      internalID: -9083814610502760432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_96
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 931
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6ce4e59f2d3ab44b47fc9bc3de679b
+      internalID: 7189382195994360499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 931
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5a1701788e9f4b9fe602d1755e658
+      internalID: 5668240318563229769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 931
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2402316b4a1bf346b5a3ed77beee59a
+      internalID: -4284300635501571686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 941
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48b68ebc527a6419ece88a927514ef
+      internalID: 7415276185828929164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 941
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a58f691435254b8263ec125cc29b5
+      internalID: 7619861049471023899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 941
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4c9bf7e203a5408ecb233ab6b4cf5
+      internalID: -3966897916973734092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 871
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c46f9f81fb0db4fa19f5677eb4bf25
+      internalID: -1600932337563794813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_103
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 871
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd94ad40b307134a8afa0d0a2f6e49b
+      internalID: -7338863002773424848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 870
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c4b3628abe0f4c8b2dafd548d75ee
+      internalID: -674176844858107493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_105
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 871
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe204ea46dd374aaada1d76e8c70b9
+      internalID: -7863002422627685549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_106
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 888
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc80b3cae6108a4fb38cf3713f204e4
+      internalID: 6128946361337277466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 888
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42290eaac98abd4ab8cd24acc35b790
+      internalID: 6102161891013377272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_108
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 888
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb48ff57dcf97741ae571e092d24a1f
+      internalID: 2839006388683603924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_109
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 888
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c7f3d22bee604b9362032bbbd72b9
+      internalID: -4248485731194872575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_110
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 888
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee20fc66f831345b0828e81d2ebc15
+      internalID: -215608682580911729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_111
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 888
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28287556ed2dd4cb4944dcc103b1bc
+      internalID: 7225530831735469329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 822
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e9efbea3cf624687ae8b767164858
+      internalID: -625541000394258019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 822
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342dde2eab51064fb6790215447f10a
+      internalID: -858087226775522724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_114
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 822
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb2d45e8c95d343a30aeb0c7c29a1a
+      internalID: -2127337837577946795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 826
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c897c175c5ac64aaf31a1dfc8e7f6b
+      internalID: 3631232286797139480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_116
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 835
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ee313c6b902a941a5a353b64f4a47e
+      internalID: -528715322968182972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_117
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 834
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf6f2cb48f19941a0aaf36f1d9d345
+      internalID: 5577384787550576838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_118
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 827
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527e0d2a75a5f54cabd7f2a59a34987
+      internalID: 7525677057382328486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 523
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e267a74a1e7739e48a3fab08c487068d
+      internalID: -851630001868928665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_120
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 768
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cddb0fce835564ba25bbfa669b397b
+      internalID: 4828526187679652521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_121
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 768
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6aafe4d87d894c95be18cdbbacf32
+      internalID: 5895457727091777137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 768
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392ff2865f1c1eb4eaacf1f9e03ca2e2
+      internalID: 7199330549861440359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_123
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 768
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e66e08e36b354797b8037728d3937
+      internalID: -8019097721923183272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_124
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 768
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a5b52eb3f1834e8c7fc7075f5b792
+      internalID: 2620784533473330507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 769
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8139d782624a42b2805b50bcbc561
+      internalID: 4887682233606592561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 763
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe850a54b6fb65f468a7d33c61e8b4a6
+      internalID: -9174970024770791131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 763
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ecf19f1522264e9b470e54fe6a211
+      internalID: 7439351095501974506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_128
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 760
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ead9680610ad2340a12a0bdefaf59ca
+      internalID: -4354632100792884177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 759
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86f9d58e36a2a4c8083d2127b362b5
+      internalID: 2236166364964142777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_130
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 759
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b9e15ae3ffa247956b4074e4c6578
+      internalID: 2658608516448830582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 714
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d9b8750ab4fb48809e7e7aba2777c
+      internalID: -5113187767292812381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_132
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 714
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abade5e567eb3f44097f6735f298c294
+      internalID: -7496130458121797311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_133
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 715
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ad79eaee471b47ab8fee33e71c7f2
+      internalID: -9122671323005966233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 715
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc8ecbb03dda448946a7d3acbb0861
+      internalID: 6022880844006942052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_135
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 715
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c475a47bd1b3d48a88334c0e5cc3bc
+      internalID: 3987977890441076750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_136
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 714
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026d7ef66b17d84783e0d0d9a1c004c
+      internalID: 387076074422709139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_137
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 714
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a7880b49d983b4f9d2f9c80a0b8654
+      internalID: -8874311418081017308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_138
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 715
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9fbb8ce26ec84fbee387bf61c24dd
+      internalID: -5885230352361282890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_139
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 715
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0e81e0e3323744a8100e0845228b0
+      internalID: 5824363538832429708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 714
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314768a8efde714a84759c9c26dc25b
+      internalID: -5769011354058765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_141
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 656
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aafef0ffd5146c45bb0e4572d5f7d8c
+      internalID: 602275843457642867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_142
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 656
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61006c1c7d3cc488dad23623efba62
+      internalID: -2112735249183255974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 657
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8dff1eded4534ba75d37dc083a7dd
+      internalID: -348769033458469377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_144
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 657
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6a6e65ef9e5141b285a5077b4136c
+      internalID: -348705594123724614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_145
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 658
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904b63c448666b46a984a61bbfc0436
+      internalID: -8792953212812879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 657
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49656ee385af5545b57428e3a933bfe
+      internalID: 7382984026320618336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_147
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 656
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c3aee93aa01840a6b27e328a10500
+      internalID: 232717144816761996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_148
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 656
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4401b0420d4724a81f66dcfedb2a35
+      internalID: 4970284875762037150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_149
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 642
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155afc69bd90ce14b955c218513e31aa
+      internalID: 2562309115945509078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 604
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95590ca21f7afe4caeae1c4985ddb93
+      internalID: -5878884968511902906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_151
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 604
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413e4fede9fabc46a7407d209109542
+      internalID: -6842838540592447756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_152
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 596
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019751a2353e5a47bafc8571b0639d3
+      internalID: 6256135032810099214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_153
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 532
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c24e077f273d4fbfa2d66f2c6ed3e
+      internalID: 7460101315666817605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 532
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ddff2a02b0eb42b7ac405ed55fc99
+      internalID: 8972984135836773532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_155
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 532
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79a79fb3bec4e4a84c674fb76a2c05
+      internalID: -6327106731089467763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_156
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 531
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83341cf4d1ebd784c9ee4b2f67dd58ee
+      internalID: 1353341832476587669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_157
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 531
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474cfba3f9ad4754aa50170fb6cd79ef
+      internalID: 4772603309704980391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_158
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 531
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e0670338486744a362ac689cbfefe
+      internalID: 3720586938676176717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_159
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 519
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042354571d5c0b3468e15cb47e0132b7
+      internalID: 7109768345859309971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_160
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 523
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3124578a99fed94cbe37fa1c40c03ef
+      internalID: -7817792060118342881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_161
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 533
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4806226c8e23544badb001ac050ef8
+      internalID: 1193274978915198486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_162
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 482
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7bdc8785fc7d4eb96ee4ba48e974e
+      internalID: -3936386595811022365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_163
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 425
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcebab0413771448855a2216beca948
+      internalID: 2526091955332980133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_164
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 425
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546207415009fcb4097a218743ee6e49
+      internalID: 7102788147510959030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_165
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 425
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab32ef4388cc89e41bbf019ebb6afa69
+      internalID: 9192673312414204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_166
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 424
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a70d2038197842816471fd974b442
+      internalID: -112528433659764914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_167
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 424
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645dc1ecba498f4e89690b883a9daed
+      internalID: 1437118437075470279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_168
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 424
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bbea914624dc439840ea1f8bced30
+      internalID: -3552969329434426234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_169
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 425
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a40de38b900654ab64a6915038300a
+      internalID: -6037139716970934789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_170
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 425
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4af18c45c7d3348b24dac6c7f49fc6
+      internalID: -8693105418772210049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_171
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 425
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e89b7070d6c94cabdedf721e9039a
+      internalID: -1330195528890165169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_172
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 369
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3bf4f615733c942adcab0695565fa4
+      internalID: -4457512540130349645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 372
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583722b8d422e4d4698a8defd6d072f1
+      internalID: -864011229607957574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 373
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69439539782d3e4478de9ba4a3934ec2
+      internalID: 2434974413419495812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_175
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 371
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f99a8a5809a4274ba004c819a692667
+      internalID: 6748025210131818218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_176
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 371
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3671a07b6ee904d80dcada3812e413
+      internalID: -3533970919178017565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_177
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 305
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d02ecafefdf1db4c894c9456d39189d
+      internalID: 400784702721530758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_178
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 309
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ff413a03e3a74f99cf156181224c3
+      internalID: 6233887985505064222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 308
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15db6460c123aa4e9f2dfd1745d1fb0
+      internalID: 1075676809945063457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_180
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 316
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cbb9042d039e4eb24a88d8cf7f21c
+      internalID: 1817597914460596365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_181
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 317
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94670f3a10036f64caaf01e8cf84de4b
+      internalID: 2815171382788395960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_182
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 315
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946c9e6594409948a39c2bd71406b62
+      internalID: 6981121288008941977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_183
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 315
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc784f5b26b7b4d94a6595bae132bb
+      internalID: 1346653687545913908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_184
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 315
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f0cb4c467f774da3069d18b42ddd6
+      internalID: 3587169165487184003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_185
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 106
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd322726ba76a4d49ac25928fa3561f5
+      internalID: -1837621227672473022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_186
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 280
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f144154296d6c408a887aea3caad85
+      internalID: 4837925425414378250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_187
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 280
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7577040641270c4b86b9c10d82645bf
+      internalID: 5941354920056403524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_188
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 280
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b77c2262a7a4441a5db5970d47d513
+      internalID: 2253019022326709264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_189
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 280
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09784f36e36d66543940b043c027fc77
+      internalID: -2780210082849548607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_190
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 280
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb86c2965cdf1c4d8b0bee61a9c4fcb
+      internalID: -5491094361086241601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_191
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 280
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f75cb5e206a804aa5f152f09e71571
+      internalID: -4851196855344145678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_192
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 238
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7200626f56823144a184fade97be492
+      internalID: 5846855555059445031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_193
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 238
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb96e9a5ff03848839a2cca15e28f1
+      internalID: -6886550086186111023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23601831ffad24484ea7b1bf6cf97b
+      internalID: 8290850816784103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_195
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68766a34ebbc2104ea1229138d8b9d4b
+      internalID: 5363330897427692790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe33ef991e06541af2fe1dfd29bc5b
+      internalID: 7307845965219619299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_197
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b4f1d1bc2b1047b870326d3d247e7
+      internalID: 5521263882246460925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_198
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 96
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ddcd6ed1fc18498cbad60c8164e20
+      internalID: 1942682536874601419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e428998235c14193251d393a6f990
+      internalID: -8328248875867402945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_200
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4012115414a074d84996faa8e7e1ef
+      internalID: 7250430088378571026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_201
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f70d6a982d454ab1c1369916ca614
+      internalID: 9141805310065667313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_202
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29230c6b1ed3a38498d167a094eb188f
+      internalID: 3646184770291538941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_203
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 44
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c341a0a810c25643928a3f0033facfb
+      internalID: -4829291080117270335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_204
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 44
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136830d6215d1042934307be647daad
+      internalID: -7883265684531770646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_205
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a80b9ce0a07146ab256a36aaf4d46
+      internalID: 8625662713465055201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_206
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 46
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2775e518ea4f584d87f5126b5cab374
+      internalID: -7946923662651536488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_207
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 46
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01885aad6a7087d44a5e8c362b88231e
+      internalID: 1102199273181819883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_208
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 47
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6c2662239bc44fb2aa1107b659352
+      internalID: 7781043873556580393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_209
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c24e473303b34190054eb3676072b
+      internalID: -4401690671174454889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngguru.com_210
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 46
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93140f7a487a4a74faeb23b957895433
+      internalID: 5335129559316668314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
